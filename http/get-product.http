@@ -1,0 +1,2 @@
+GET http://localhost:3000/product/{skuaqui}
+Content-Type: application/json
